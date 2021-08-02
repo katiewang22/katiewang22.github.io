@@ -1,6 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: splash
+permalink: /
+author_profile: true
+header:
+  overlay_image: /assets/home.jpg
+  actions:
+    - label: "See my resume"
+      url: "https://youtu.be/dQw4w9WgXcQ"
 ---
