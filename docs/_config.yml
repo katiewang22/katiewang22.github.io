@@ -20,6 +20,7 @@
 
 title: ✧･ﾟ Meet Katie! ﾟ･✧
 masthead_title: Hey, I'm Katie! (◕‿◕｡)
+title_separator: "|"
 email: katie.wang1950f@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of a highschooler who loves desserts and cats! 
@@ -30,12 +31,15 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/katiewang22"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/katieeewang/"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/katie-wang-380046217/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto: katie.wang1950f@gmail.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/katieeewang/"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
