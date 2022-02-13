@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 author_profile: true
 header:
-  overlay_image: /assets/images/home.jpg
+  overlay_image: /assets/images/websiteHeader.gif
   actions:
     - label: "Connect on Linkedin"
       url: "https://www.linkedin.com/in/katie-wang-380046217/"
