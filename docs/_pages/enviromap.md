@@ -8,9 +8,7 @@ permalink: /enviromap/
 
 <a href="https://github.com/katiewang22/EnviroMap2" target="_blank">GitHub Repo</a>
 
-<video width="700" height="400" controls>
-  <source type="video/mp4" src="/assets/videos/sciencefair.mp4">
-</video>
+<iframe align="center" src="https://drive.google.com/file/d/1t1E2AkOhlG13Yjpg475-_reDuc2Heyi-/preview" width="800" height="480" allow="autoplay"></iframe>
 
 For a science fair project, I found the carbon emissions of a car based on the destination a user inputted. I converted the distance to miles in order to find the emissions in another screen of the app.
 
