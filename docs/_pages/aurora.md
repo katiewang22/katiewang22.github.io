@@ -26,4 +26,6 @@ After clicking "Done!":
     <img src="/assets/images/journal2.png" alt="Finished Journal Page" width="370"/>
 </p>
 
-<a href="#top">Back to top</a>
+<div class="bottomright">
+    <a href="#top">Back to top</a>
+</div>
