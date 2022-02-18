@@ -10,6 +10,8 @@ main:
     url: /notesco/
   - title: "Robotics"
     url: /robotics/
+  - title: "CodeHers"
+    url: /codehers/
   #- title: "About"
   #  url: /about/
   # - title: "Sample Posts"

@@ -17,14 +17,20 @@ This is part of the code written in TypeScript for the journaling screen of a me
 Here is what the tab looks like:
 
 <p align="center">
-    <img src="/assets/images/journal1.png" alt="Journal Page" width="370"/>
+    <img src="/assets/images/journal1.png" alt="Journal Page" width="350"/>
 </p>
 
 After clicking "Done!":
 
 <p align="center">
-    <img src="/assets/images/journal2.png" alt="Finished Journal Page" width="370"/>
+    <img src="/assets/images/journal2.png" alt="Finished Journal Page" width="350"/>
 </p>
+
+I also created a drawing tab that allows users to select a color and draw on the screen. 
+
+<iframe align="vid-center" src="https://drive.google.com/file/d/1995Vu5F98yLpy3yRsNbNE2JHuxfje15m/preview" width="850" height="500" allow="autoplay"></iframe>
+
+&nbsp;
 
 <div class="bottomright">
     <a href="#top">Back to top</a>
